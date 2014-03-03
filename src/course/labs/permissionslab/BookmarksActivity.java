@@ -46,7 +46,7 @@ public class BookmarksActivity extends Activity {
 		});
 
 	}
-
+    
 	private void loadBookmarks() {
 
 		Log.i(TAG, "Entered loadBookmarks()");
